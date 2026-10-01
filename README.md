@@ -40,11 +40,11 @@ I operate across the complete system lifecycle — from embedded IoT telemetry t
 
 ### 🔄 End-to-End IoT & Cloud Architecture
 
-```
-[ IoT Sensor Device ] ──(MQTT / Telemetry)──► [ AWS IoT Cloud ] ──(Data Bridge)──► [ DigitalOcean Droplet ] ──► [ Client Web / Mobile Apps ]
-```
+<p align="center">
+  <img src="assets/iot-pipeline.svg" width="100%" alt="End-to-End IoT & Cloud Architecture: IoT Device → AWS IoT Cloud → DigitalOcean → Web / Mobile Apps"/>
+</p>
 
-A core differentiator across my projects is bridging physical hardware to consumer apps via authenticated cloud message brokers and low-latency APIs.
+A signature technical differentiator across my work is engineering the full hardware-to-app pipeline — acquiring real-time physical sensor data, transmitting over authenticated cloud message brokers, processing on scalable compute instances, and rendering on low-latency client dashboards.
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
