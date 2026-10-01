@@ -180,12 +180,12 @@ A core differentiator across my projects is bridging physical hardware to consum
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JohntheAIdeveloper&bg_color=0A0E17&color=C9D6E3&line=2F6FFF&point=2BD4E0&area=true&area_color=2F6FFF&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=JohntheAIdeveloper&theme=dark&background=0A0E17&border=10192B&stroke=2BD4E0&ring=2F6FFF&fire=2BD4E0&currStreakLabel=2BD4E0" alt="GitHub Streak Stats"/>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-### 🐍 Contribution Streak
+### 🐍 Contribution Grid Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JohntheAIdeveloper/JohntheAIdeveloper/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
@@ -197,20 +197,22 @@ A core differentiator across my projects is bridging physical hardware to consum
 
 ### 📬 Connect With Me
 
-<a href="mailto:johndavidjtlm@gmail.com">
-  <img src="https://img.shields.io/badge/Email-johndavidjtlm%40gmail.com-2F6FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/johntheaideveloper">
-  <img src="https://img.shields.io/badge/LinkedIn-John_A-2BD4E0?style=for-the-badge&logo=linkedin&logoColor=0A0E17" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/JohntheAIdeveloper/john-a-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-john--a--portfolio-2F6FFF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repo"/>
-</a>
-<a href="tel:+918056555393">
-  <img src="https://img.shields.io/badge/Phone-+91_80565_55393-2BD4E0?style=for-the-badge&logo=whatsapp&logoColor=0A0E17" alt="Phone"/>
-</a>
+<p align="center">
+  <a href="mailto:johndavidjtlm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-johndavidjtlm%40gmail.com-2F6FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/johntheaideveloper">
+    <img src="https://img.shields.io/badge/LinkedIn-John_A-2BD4E0?style=for-the-badge&logo=linkedin&logoColor=0A0E17" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/JohntheAIdeveloper/john-a-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-john--a--portfolio-2F6FFF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repo"/>
+  </a>
+  <a href="tel:+918056555393">
+    <img src="https://img.shields.io/badge/Phone-+91_80565_55393-2BD4E0?style=for-the-badge&logo=whatsapp&logoColor=0A0E17" alt="Phone"/>
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
 <sub>© 2026 John A. Master Portfolio Blueprint Alignment. All rights reserved.</sub>
 
