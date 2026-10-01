@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/JohntheAIdeveloper/john-a-portfolio">
-    <img src="https://img.shields.io/badge/🌐_Explore_3D_Portfolio-0A0E17?style=for-the-badge&logo=react&logoColor=2BD4E0&border=2BD4E0" alt="3D Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Explore_Portfolio-0A0E17?style=for-the-badge&logo=github&logoColor=2BD4E0&border=2BD4E0" alt="Portfolio"/>
   </a>
   <a href="mailto:johndavidjtlm@gmail.com">
     <img src="https://img.shields.io/badge/✉️_Get_in_Touch-0A0E17?style=for-the-badge&logo=gmail&logoColor=2F6FFF" alt="Email John"/>
@@ -54,9 +54,6 @@ A core differentiator across my projects is bridging physical hardware to consum
   <tr>
     <td width="25%"><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-10192B?style=flat-square&logo=react&logoColor=2BD4E0" alt="React"/>
-      <img src="https://img.shields.io/badge/Next.js_14-10192B?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/TypeScript-10192B?style=flat-square&logo=typescript&logoColor=2BD4E0" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/JavaScript-10192B?style=flat-square&logo=javascript&logoColor=2BD4E0" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/HTML5-10192B?style=flat-square&logo=html5&logoColor=2BD4E0" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-10192B?style=flat-square&logo=css3&logoColor=2BD4E0" alt="CSS3"/>
@@ -68,19 +65,8 @@ A core differentiator across my projects is bridging physical hardware to consum
   <tr>
     <td><b>Backend & APIs</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-10192B?style=flat-square&logo=node.js&logoColor=2BD4E0" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express.js-10192B?style=flat-square&logo=express&logoColor=white" alt="Express"/>
       <img src="https://img.shields.io/badge/Python-10192B?style=flat-square&logo=python&logoColor=2BD4E0" alt="Python"/>
       <img src="https://img.shields.io/badge/REST_APIs-10192B?style=flat-square&logo=fastapi&logoColor=2BD4E0" alt="REST APIs"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>3D & Creative Web</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Three.js-10192B?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
-      <img src="https://img.shields.io/badge/React_Three_Fiber-10192B?style=flat-square&logo=three.js&logoColor=2BD4E0" alt="R3F"/>
-      <img src="https://img.shields.io/badge/GSAP-10192B?style=flat-square&logo=greensock&logoColor=2BD4E0" alt="GSAP"/>
-      <img src="https://img.shields.io/badge/Web_Audio_API-10192B?style=flat-square&logo=webassembly&logoColor=2F6FFF" alt="Web Audio"/>
     </td>
   </tr>
   <tr>
@@ -120,7 +106,7 @@ A core differentiator across my projects is bridging physical hardware to consum
 #### 1. Software Developer — **Code Core Global HiTech Solutions**
 `06/2025 – Present · Coimbatore, Tamil Nadu`
 - **Team Leadership:** Led a development team building and deploying production web applications.
-- **Full-Stack Engineering:** Developed scalable applications using React, Node.js, Express.js, and Python.
+- **Full-Stack Engineering:** Developed scalable web applications and REST APIs using Python.
 - **Database & DevOps:** Administered MySQL and MongoDB databases; executed Git code reviews and deployment pipelines.
 - **AI-Assisted Workflows:** Authored structured technical documentation utilizing AI-driven summarization models.
 - **Public Speaking:** Conducted hands-on technical workshops across **10+ engineering colleges**.
@@ -143,9 +129,9 @@ A core differentiator across my projects is bridging physical hardware to consum
 
 | Project | Key Technologies | Description & Highlights |
 |---|---|---|
-| **[John A — 3D Portfolio & Signal Path](https://github.com/JohntheAIdeveloper/john-a-portfolio)** | Next.js 14, R3F, Three.js, GSAP, Web Audio | Production portfolio featuring a continuous 3D Catmull-Rom spline, telemetry data packets, 8-state developer avatar, and interactive IoT pipeline visualization. |
-| **CC Ops (Operational Management System)** | React, Node.js, Express, MySQL, AI APIs | Enterprise operations suite with task tracking, attendance/leave management, Git review workflows, meeting scheduling, and AI documentation summarization. |
-| **Texro Automation Telemetry Portal** | React, Node.js, AWS IoT, DigitalOcean | Full-stack IoT dashboard displaying real-time telemetry streaming from industrial devices to cloud backends. |
+| **[John A — Portfolio & Signal Path](https://github.com/JohntheAIdeveloper/john-a-portfolio)** | Tailwind CSS, Web Technologies | Production portfolio featuring telemetry data packets, developer avatar, and interactive IoT pipeline visualization. |
+| **CC Ops (Operational Management System)** | Python, MySQL, AI APIs | Enterprise operations suite with task tracking, attendance/leave management, Git review workflows, meeting scheduling, and AI documentation summarization. |
+| **Texro Automation Telemetry Portal** | AWS IoT, DigitalOcean | Full-stack IoT dashboard displaying real-time telemetry streaming from industrial devices to cloud backends. |
 | **CodeMart — E-Commerce Platform** | JavaScript, Python REST APIs, PostgreSQL | High-performance e-commerce platform with product catalogs, shopping cart state management, and PostgreSQL database queries. |
 | **Portfolio Mobile App** | Flutter, Dart, Cross-Platform UI | Mobile portfolio application with responsive layouts, smooth navigation, and hardware performance optimization. |
 | **LLS Quality Management System** | JavaScript, MySQL, FPDF, PhpSpreadsheet | Production quality portal for external life sciences enterprise, tracking instruments, calibration cycles, and automated audit reports. |
