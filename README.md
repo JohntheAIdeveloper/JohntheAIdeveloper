@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/JohntheAIdeveloper/john-a-portfolio">
-    <img src="https://img.shields.io/badge/🌐_Explore_Portfolio-0A0E17?style=for-the-badge&logo=github&logoColor=2BD4E0&border=2BD4E0" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Explore_Portfolio-0A0E17?style=for-the-badge&logo=github&logoColor=2BD4E0&border=2BD4E0" alt="Portfolio"/>
   </a>
   <a href="mailto:johndavidjtlm@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Get_in_Touch-0A0E17?style=for-the-badge&logo=gmail&logoColor=2F6FFF" alt="Email John"/>
+    <img src="https://img.shields.io/badge/Get_in_Touch-0A0E17?style=for-the-badge&logo=gmail&logoColor=2F6FFF" alt="Email John"/>
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-### ⚡ Executive Profile
+### <img src="assets/icons/terminal.svg" width="22" height="22" align="absmiddle"/> Executive Profile
 
 <img align="right" width="340" src="assets/illustration.svg" alt="Workstation to cloud, database and IoT data flow illustration"/>
 
@@ -31,14 +31,14 @@ I operate across the complete system lifecycle — from embedded IoT telemetry t
 - Engineered hardware-to-cloud data pipelines from physical sensor devices to cloud analytics.
 - Delivered technical hands-on workshops across **10+ engineering colleges**.
 
-📍 **Based in:** Coimbatore & Erode, Tamil Nadu, India  
-🌱 **Specializations:** Full-Stack Development · Cloud & IoT Architectures · Database Engineering · Technical Leadership
+<img src="assets/icons/map-pin.svg" width="15" height="15" align="absmiddle"/> **Based in:** Coimbatore & Erode, Tamil Nadu, India  
+<img src="assets/icons/cpu.svg" width="15" height="15" align="absmiddle"/> **Specializations:** Full-Stack Development · Cloud & IoT Architectures · Database Engineering · Technical Leadership
 
 <br clear="right"/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-### 🔄 End-to-End IoT & Cloud Architecture
+### <img src="assets/icons/network.svg" width="22" height="22" align="absmiddle"/> End-to-End IoT & Cloud Architecture
 
 <p align="center">
   <img src="assets/iot-pipeline.svg" width="100%" alt="End-to-End IoT & Cloud Architecture: IoT Device → AWS IoT Cloud → DigitalOcean → Web / Mobile Apps"/>
@@ -48,7 +48,7 @@ A signature technical differentiator across my work is engineering the full hard
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-### 🛠️ Technical Stack & Tools
+### <img src="assets/icons/code.svg" width="22" height="22" align="absmiddle"/> Technical Stack & Tools
 
 <table>
   <tr>
@@ -101,7 +101,7 @@ A signature technical differentiator across my work is engineering the full hard
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-### 💼 Professional Industry Experience
+### <img src="assets/icons/briefcase.svg" width="22" height="22" align="absmiddle"/> Professional Industry Experience
 
 #### 1. Software Developer — **Code Core Global HiTech Solutions**
 `06/2025 – Present · Coimbatore, Tamil Nadu`
@@ -125,7 +125,7 @@ A signature technical differentiator across my work is engineering the full hard
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-### 🚀 Featured Engineering Projects
+### <img src="assets/icons/layers.svg" width="22" height="22" align="absmiddle"/> Featured Engineering Projects
 
 | Project | Key Technologies | Description & Highlights |
 |---|---|---|
@@ -138,19 +138,19 @@ A signature technical differentiator across my work is engineering the full hard
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-### 📜 Certifications & Continuous Learning
+### <img src="assets/icons/award.svg" width="22" height="22" align="absmiddle"/> Certifications & Continuous Learning
 
-- 🏅 **Python Programming**
-- 🏅 **Additive Manufacturing & 3D Printing**
-- 🏅 **ChatGPT for Everyone (AI Prompting & Automation)**
-- 🏅 **HTML & CSS Advanced Architectures**
-- 🏅 **Game Development using PyGame**
-- 🏅 **GenAI Powered Data Analytics Job Simulation**
-- 📚 *Currently learning:* **Harvard CS50x – Computer Science**
+- <img src="assets/icons/check-badge.svg" width="16" height="16" align="absmiddle"/> **Python Programming**
+- <img src="assets/icons/check-badge.svg" width="16" height="16" align="absmiddle"/> **Additive Manufacturing & 3D Printing**
+- <img src="assets/icons/check-badge.svg" width="16" height="16" align="absmiddle"/> **ChatGPT for Everyone (AI Prompting & Automation)**
+- <img src="assets/icons/check-badge.svg" width="16" height="16" align="absmiddle"/> **HTML & CSS Advanced Architectures**
+- <img src="assets/icons/check-badge.svg" width="16" height="16" align="absmiddle"/> **Game Development using PyGame**
+- <img src="assets/icons/check-badge.svg" width="16" height="16" align="absmiddle"/> **GenAI Powered Data Analytics Job Simulation**
+- <img src="assets/icons/book.svg" width="16" height="16" align="absmiddle"/> *Currently learning:* **Harvard CS50x – Computer Science**
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-### 👥 Leadership & Speaking
+### <img src="assets/icons/users.svg" width="22" height="22" align="absmiddle"/> Leadership & Speaking
 
 - **Technical Workshop Speaker:** Delivered hands-on coding and cloud workshops across **10+ colleges** and **1 school**.
 - **Yuva Leadership:** Executive Chair · Executive Co-Chair · Accessibility Chair · Accessibility Co-Chair.
@@ -158,7 +158,7 @@ A signature technical differentiator across my work is engineering the full hard
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-### 📊 GitHub Activity & Statistics
+### <img src="assets/icons/activity.svg" width="22" height="22" align="absmiddle"/> GitHub Activity & Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JohntheAIdeveloper&show_icons=true&hide_border=true&bg_color=0A0E17&title_color=2F6FFF&icon_color=2BD4E0&text_color=C9D6E3" alt="John's GitHub stats"/>
@@ -171,7 +171,7 @@ A signature technical differentiator across my work is engineering the full hard
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-### 🐍 Contribution Grid Animation
+### <img src="assets/icons/grid.svg" width="22" height="22" align="absmiddle"/> Contribution Grid Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JohntheAIdeveloper/JohntheAIdeveloper/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
@@ -181,7 +181,7 @@ A signature technical differentiator across my work is engineering the full hard
 
 <div align="center">
 
-### 📬 Connect With Me
+### <img src="assets/icons/mail.svg" width="22" height="22" align="absmiddle"/> Connect With Me
 
 <p align="center">
   <a href="mailto:johndavidjtlm@gmail.com">
@@ -200,6 +200,6 @@ A signature technical differentiator across my work is engineering the full hard
 
 <br/>
 
-<sub>© 2026 John A. Master Portfolio Blueprint Alignment. All rights reserved.</sub>
+<sub>&copy; 2026 John A. Master Portfolio Blueprint Alignment. All rights reserved.</sub>
 
 </div>
