@@ -129,7 +129,7 @@ A signature technical differentiator across my work is engineering the full hard
 
 | Project | Key Technologies | Description & Highlights |
 |---|---|---|
-| **[John A — Portfolio & Signal Path](https://github.com/JohntheAIdeveloper/john-a-portfolio)** | Tailwind CSS, Web Technologies | Production portfolio featuring telemetry data packets, developer avatar, and interactive IoT pipeline visualization. |
+| **John A — Portfolio & Signal Path** | Tailwind CSS, Web Technologies | Production portfolio featuring telemetry data packets, developer avatar, and interactive IoT pipeline visualization. |
 | **CC Ops (Operational Management System)** | Python, MySQL, AI APIs | Enterprise operations suite with task tracking, attendance/leave management, Git review workflows, meeting scheduling, and AI documentation summarization. |
 | **Texro Automation Telemetry Portal** | AWS IoT, DigitalOcean | Full-stack IoT dashboard displaying real-time telemetry streaming from industrial devices to cloud backends. |
 | **CodeMart — E-Commerce Platform** | JavaScript, Python REST APIs, PostgreSQL | High-performance e-commerce platform with product catalogs, shopping cart state management, and PostgreSQL database queries. |
